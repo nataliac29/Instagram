@@ -1,8 +1,8 @@
-# Project 4 - *Name of App Here*
+# Project 4 - Instagram
 
-**Name of your app** is a photo sharing app using Parse as its backend.
+Instagram is a photo sharing app using Parse as its backend.
 
-Time spent: **X** hours spent in total
+Time spent: 25 hours spent in total
 
 ## User Stories
 
@@ -44,8 +44,8 @@ The following **additional** features are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+1. How to switch which fragment user sees
+2. Related queries on Parse
 
 ## Video Walkthrough
 
