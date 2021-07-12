@@ -21,8 +21,8 @@ The following **required** functionality is completed:
 
 The following **stretch** features are implemented:
 
-- [ ] Style the login page to look like the real Instagram login page.
-- [ ] Style the feed to look like the real Instagram feed.
+- [x] Style the login page to look like the real Instagram login page.
+- [x] Style the feed to look like the real Instagram feed.
 - [ ] User can load more posts once he or she reaches the bottom of the feed using endless scrolling.
 - [x] User should switch between different tabs using fragments and a Bottom Navigation View.
   - [x] Feed Tab (to view all posts from all users)
@@ -51,9 +51,9 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/nataliac29/Instagram/blob/b6223b6917e76f295b6408ac77ae6b6ffc72ea34/app/InstagramGif.gif' height="500" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [Kap](https://getkap.co/).
+GIF created with [EZGif](https://ezgif.com/video-to-gif) and Quicktime.
 
 ## Credits
 
